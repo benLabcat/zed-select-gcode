@@ -1,0 +1,16 @@
+name = "Select GCode"
+grammar = "select_gcode"
+
+path_suffixes = [
+    "cnc",
+    "eia",
+    "gcode",
+    "mpf",
+    "mpt",
+    "nc",
+    "ngc",
+    "prg",
+    "tap"
+]
+
+line_comments = [";"]
