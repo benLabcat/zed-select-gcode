@@ -15,6 +15,10 @@ capabilities = []
 
 [lib]
 
+[grammars.select_gcode]
+repository = "https://github.com/benLabcat/tree-sitter-select-gcode"
+rev = "main"
+
 [language_servers]
 
 [context_servers]
